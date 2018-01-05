@@ -25,7 +25,7 @@ Now available for
 |![#F0F0F0](https://placehold.it/15/F0F0F0/000000?text=+)|Light White|#F0F0F0|rgb(240,240,240)|hsb(0,0,94)|
 
 ## Fonts
-My Favovite font is [Operator Mono](https://www.typography.com/blog/introducing-operator/) by Hoefler & Co. It's not free, but it's worth it.
+My favorite font is [Operator Mono](https://www.typography.com/blog/introducing-operator/) by Hoefler & Co. It's not free, but it's worth it.  
 I also like Apple's SF Mono and Adobe's [Source Code Pro](https://github.com/adobe-fonts/source-code-pro/).
 
 ## Screenshot
