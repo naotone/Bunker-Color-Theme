@@ -1,14 +1,14 @@
 # Bunker Color Theme
-<img width="128px" src="https://github.com/naotone/_/blob/master/icon.png" alt="Bunker">
+<img width="128px" src="https://github.com/naotone/Bunker-Color-Theme/blob/master/_Assets/icon.png" alt="Bunker">
 A Bunker Color Theme is a dark color theme created by Naoto Yoshimoto.
 <br>
 
 ## Apps
 Now available for
-- [Visual Studio Code](./visual-studio-code/)
-- [Xcode](./xcode/)
-- [Iterm](./iterm/)
-- [Alfed](./alferd)
+- [Visual Studio Code](https://github.com/naotone/Bunker-Color-Theme/tree/master/Visual-Studio-Code/)
+- [Xcode](https://github.com/naotone/Bunker-Color-Theme/tree/master/Xcode/)
+- [Iterm](https://github.com/naotone/Bunker-Color-Theme/tree/master/iTerm/)
+- [Alfed](https://github.com/naotone/Bunker-Color-Theme/tree/master/Alfred/)
 
 ## Colors
 |🎨|Name|Hex|RGB|HSB|
@@ -29,7 +29,7 @@ My favorite font is [Operator Mono](https://www.typography.com/blog/introducing-
 I also like Apple's SF Mono and Adobe's [Source Code Pro](https://github.com/adobe-fonts/source-code-pro/).
 
 ## Screenshot
-<img width="100%" src="https://github.com/naotone/_/blob/master/screenshot.jpg" alt="Bunker">
+<img width="100%" src="https://github.com/naotone/Bunker-Color-Theme/blob/master/_Assets/screenshot.jpg" alt="Bunker">
 
 ## License
 MIT License &copy; Naoto Yoshimoto
