@@ -7,3 +7,6 @@
 [submodule "Alfred"]
 	path = Alfred
 	url = git@github.com:naotone/Bunker-Alfred.git
+[submodule "Visual Studio Code"]
+	path = Visual Studio Code
+	url = git@github.com:naotone/Bunker-Visual-Studio-Code.git
