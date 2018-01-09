@@ -1,3 +1,6 @@
 [submodule "Xcode"]
 	path = Xcode
 	url = git@github.com:naotone/Bunker-Xcode.git
+[submodule "iTerm2"]
+	path = iTerm2
+	url = git@github.com:naotone/Bunker-iTerm2.git
